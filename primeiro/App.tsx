@@ -40,7 +40,8 @@ export default function App() {
 
         <View style={styles.box4}>
             <Image 
-              source={require("./assets/gato3.png")}
+              source={{ 
+                uri: 'https://media.tenor.com/CeFAp9e3xuUAAAAj/lindo-gato-feliz.gif' }}
               style={styles.imagem}
               resizeMode='contain'
             />       
