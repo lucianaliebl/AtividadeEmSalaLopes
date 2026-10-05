@@ -23,6 +23,7 @@ export default function App() {
             resizeMode='contain'
           />       
           <Text style={{textAlign: 'center'}}>ALGUÉM ME DÁ DOCEEEEEEE!</Text>    
+
         </View>
       
       </View>
