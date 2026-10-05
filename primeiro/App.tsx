@@ -22,7 +22,7 @@ export default function App() {
             style={styles.imagem}
             resizeMode='contain'
           />       
-          <Text style={{textAlign: 'center'}}>Help me!</Text>    
+          <Text style={{textAlign: 'center'}}>SOCORROOOOOOO!</Text>    
         </View>
       
       </View>
