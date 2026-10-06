@@ -7,7 +7,7 @@ export default function App() {
       <View style= {styles.linha}>
         
         <View style={styles.box1}>
-          <Image 
+          <Imag 
             source={require("./assets/gato1.png")}
             style={styles.imagem}
             resizeMode='contain'
@@ -17,7 +17,7 @@ export default function App() {
         </View>
 
         <View style={styles.box2}>
-          <Image 
+          <Imag
             source={require("./assets/gato2.png")}
             style={styles.imagem}
             resizeMode='contain'
@@ -31,7 +31,7 @@ export default function App() {
       <View style= {styles.linha}>
 
         <View style={styles.box3}>
-            <Image 
+            <Imag 
               source={require("./assets/gato4.png")}
               style={styles.imagem}
               resizeMode='contain'
@@ -40,7 +40,7 @@ export default function App() {
         </View>
 
         <View style={styles.box4}>
-            <Image 
+            <Imag 
               source={{ 
                 uri: 'https://media.tenor.com/CeFAp9e3xuUAAAAj/lindo-gato-feliz.gif' }}
               style={styles.imagem}
